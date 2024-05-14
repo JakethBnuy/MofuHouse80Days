@@ -72,3 +72,18 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Ignore log files
+Saved/Logs/*
+
+# Ignore config files
+Saved/Config/**
+
+# Ignore telemetry files
+Saved/Telemetry/*
+
+# Ignore source control files
+Saved/SourceControl/*
+
+# Ignore autosave files
+Saved/Autosaves/*
